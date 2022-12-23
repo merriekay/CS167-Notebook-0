@@ -5,10 +5,11 @@ For all notebooks, I will include the instructions in the README.md file (the fi
 
 ## Overview:
 There are 5 parts to Notebook 0: 
-1. Fill out the introductory Questionnaire
+1. Fill out the [Introductory Questionnaire](https://forms.gle/6zZqs9ECDk6XqH7E7)
 2. Create your Participation Card
-3. Get GitHub Set Up
-4. Sign up for PollEverywhere
+3. Get [GitHub Set Up](https://classroom.github.com/classrooms/121270072-j23-cs16)
+4. Sign up for [PollEverywhere](https://PollEv.com/meredithmoore011/register)
+5. (optional) Add some music to the [CS167 Spotify Playlist](https://open.spotify.com/playlist/3abC5cZQOMSGN9NzU3vrMq?si=32f33f943cad4921&pt=b1fd11453fa818bdf3258a2fd6c9d025)
 
 ### Part 1: Fill out the [Introductory Questionnaire](https://forms.gle/6zZqs9ECDk6XqH7E7)
 This questionnaire is short and sweet and will help me to get to know you a little bit.
@@ -28,3 +29,6 @@ Use this link in the heading to link your GitHub account to our GitHub Classroom
 ### Part 4: [Sign Up for PollEverywhere](https://PollEv.com/meredithmoore011/register)
 PollEverywhere is a nifty tool that lets me poll the class. I use it to take attendance, as well as check to see how well the material I'm teaching is sticking. It's $13.99 for a year, and you will need to pay this with a credit card when you create an account. 
 > If you already have used PollEverywhere with me this year, lucky you, you don't need to do this step. 
+
+### (optional) Part 5: Add some music to the [CS167 Spotify Playlist](https://open.spotify.com/playlist/3abC5cZQOMSGN9NzU3vrMq?si=32f33f943cad4921&pt=b1fd11453fa818bdf3258a2fd6c9d025)
+This part isn't required, but we'll have plenty of time to work on things in class, and I like to play music during these times. I like to source the music from you all, so please click on the link to add some music to our class's playlist.
